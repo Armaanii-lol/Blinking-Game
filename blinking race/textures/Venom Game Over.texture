@@ -1,0 +1,41 @@
+{
+  "modelName": "texture",
+  "name": "Venom Game Over",
+  "identifier": "texture:53770-49adb8ac-a03e-4f87-a8f0-0c9ff4a12d49",
+  "alphaPremultiplicationMode": "should_premultiply",
+  "assetDataHash": "a80e13c4bfa44c90479a5e1b2cd91534",
+  "assetLocator": "textures/Venom Game Over.png",
+  "colorEncoding": "linear",
+  "compressionQuality": "high",
+  "coordMapping": "none",
+  "excludeDuringExport": false,
+  "excludeFromPackage": false,
+  "exportConfigurations": [
+    "textureExportConfig:71686-49adb8ac-a03e-4f87-a8f0-0c9ff4a12d49",
+    "textureExportConfig:72276-49adb8ac-a03e-4f87-a8f0-0c9ff4a12d49",
+    "textureExportConfig:72884-49adb8ac-a03e-4f87-a8f0-0c9ff4a12d49"
+  ],
+  "filter": "bilinear",
+  "hasOfflineMipmaps": false,
+  "height": 1024,
+  "importIssues": {},
+  "isExternalAsset": true,
+  "smartTextureTargetSizeLimit": "largest",
+  "targetSize": "largest",
+  "uWrapMode": "clamp",
+  "vWrapMode": "clamp",
+  "width": 576,
+  "children": [
+    {
+      "modelName": "data_texture_metadata_model",
+      "name": "data_texture_metadata_model0",
+      "assetDataHash": "a80e13c4bfa44c90479a5e1b2cd91534",
+      "colorCount": 303,
+      "detectedAlphaChannel": "no_alpha",
+      "detectedOriginalFormat": "png",
+      "entropyOfDistribution": 2.2677685034697954,
+      "pixelsHigh": 1024,
+      "pixelsWide": 576
+    }
+  ]
+}

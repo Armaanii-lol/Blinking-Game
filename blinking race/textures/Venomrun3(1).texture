@@ -1,0 +1,36 @@
+{
+  "modelName": "texture",
+  "name": "Venomrun3(1)",
+  "identifier": "texture:108250-49adb8ac-a03e-4f87-a8f0-0c9ff4a12d49",
+  "alphaPremultiplicationMode": "should_premultiply",
+  "assetDataHash": "f5e74a1345c182b5494c78e58a72b060",
+  "assetLocator": "textures/Venomrun3(1).png",
+  "colorEncoding": "linear",
+  "compressionQuality": "high",
+  "coordMapping": "none",
+  "excludeDuringExport": false,
+  "excludeFromPackage": false,
+  "filter": "bilinear",
+  "hasOfflineMipmaps": false,
+  "height": 1024,
+  "importIssues": {},
+  "isExternalAsset": true,
+  "smartTextureTargetSizeLimit": "largest",
+  "targetSize": "largest",
+  "uWrapMode": "clamp",
+  "vWrapMode": "clamp",
+  "width": 1024,
+  "children": [
+    {
+      "modelName": "data_texture_metadata_model",
+      "name": "data_texture_metadata_model0",
+      "assetDataHash": "f5e74a1345c182b5494c78e58a72b060",
+      "colorCount": 37333,
+      "detectedAlphaChannel": "eight_bit_full_range",
+      "detectedOriginalFormat": "png",
+      "entropyOfDistribution": 2.7362953454238164,
+      "pixelsHigh": 1024,
+      "pixelsWide": 1024
+    }
+  ]
+}

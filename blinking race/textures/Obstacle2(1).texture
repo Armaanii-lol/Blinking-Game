@@ -1,0 +1,41 @@
+{
+  "modelName": "texture",
+  "name": "Obstacle2(1)",
+  "identifier": "texture:70012-49adb8ac-a03e-4f87-a8f0-0c9ff4a12d49",
+  "alphaPremultiplicationMode": "should_premultiply",
+  "assetDataHash": "5265c60264a62decb560668f9b3c4b8d",
+  "assetLocator": "textures/Obstacle2(1).png",
+  "colorEncoding": "linear",
+  "compressionQuality": "high",
+  "coordMapping": "none",
+  "excludeDuringExport": false,
+  "excludeFromPackage": false,
+  "exportConfigurations": [
+    "textureExportConfig:73508-49adb8ac-a03e-4f87-a8f0-0c9ff4a12d49",
+    "textureExportConfig:74138-49adb8ac-a03e-4f87-a8f0-0c9ff4a12d49",
+    "textureExportConfig:74784-49adb8ac-a03e-4f87-a8f0-0c9ff4a12d49"
+  ],
+  "filter": "bilinear",
+  "hasOfflineMipmaps": false,
+  "height": 1024,
+  "importIssues": {},
+  "isExternalAsset": true,
+  "smartTextureTargetSizeLimit": "largest",
+  "targetSize": "largest",
+  "uWrapMode": "clamp",
+  "vWrapMode": "clamp",
+  "width": 1024,
+  "children": [
+    {
+      "modelName": "data_texture_metadata_model",
+      "name": "data_texture_metadata_model0",
+      "assetDataHash": "5265c60264a62decb560668f9b3c4b8d",
+      "colorCount": 25013,
+      "detectedAlphaChannel": "eight_bit_full_range",
+      "detectedOriginalFormat": "png",
+      "entropyOfDistribution": 8.065855651955593,
+      "pixelsHigh": 1024,
+      "pixelsWide": 1024
+    }
+  ]
+}
